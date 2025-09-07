@@ -1,6 +1,6 @@
-## The project titled with the name " Laundary Mart "
+# The project titled with the name " Laundary Mart "
 
-# It provides services :
+It provides services :
     >> Washing and Drying
     >> Ironing and folding
     >> Dry Cleaning
